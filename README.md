@@ -12,6 +12,6 @@ Passionate Full Stack Developer with expertise in PHP, Laravel, Codeigniter, YII
 
 💬 Feel free to ask me about PHP Laravel, Codeigniter, YII, Angular, VueJs, Firebase, Mysql, Postgre, and my exploration of blockchain technologies.
 
-📫 Reach me at mudasar.official@gmail.com for any inquiries or collaborations.
+📫 Reach me at noman@voxity.io for any inquiries or collaborations.
 
 ⚡ Fun fact: No Chai, No Coffee.
